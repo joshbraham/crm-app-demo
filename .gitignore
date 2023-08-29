@@ -11,3 +11,6 @@ venv/
 # Distribution / packaging
 .Python
 config.py
+
+# other
+.vscode
